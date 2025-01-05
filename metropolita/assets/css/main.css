@@ -4232,7 +4232,7 @@
 			display: none;
 		}
 
-		banner b {
+		#banner b {
 			color: white;
 			font-weight: 900 !important;
 		}
